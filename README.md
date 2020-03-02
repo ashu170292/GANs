@@ -1,4 +1,4 @@
-# GANs
+# GANs and DCGANs
 Implementation of GAN and DCGAN paper: 
 
 Through this work I want to explore my understanding of GANs and how they can be used in
